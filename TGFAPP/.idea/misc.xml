@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/adria/AndroidStudioProjects/TGFAPP/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1825" />
+        <entry key="..\:/Users/adria/AndroidStudioProjects/TGFAPP/app/src/main/res/layout/activity_forgot_password.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/adria/AndroidStudioProjects/TGFAPP/app/src/main/res/layout/activity_main.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/adria/AndroidStudioProjects/TGFAPP/app/src/main/res/layout/activity_select_option.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/adria/AndroidStudioProjects/TGFAPP/app/src/main/res/layout/activity_select_smart_contract.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/adria/AndroidStudioProjects/TGFAPP/app/src/main/res/layout/row.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/adria/AndroidStudioProjects/TGFAPP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.196" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_change_processors.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_change_purposes.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_consent_manager.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_get_contract_information.xml" value="0.25" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_get_transaction_information.xml" value="0.25" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_modify_data.xml" value="0.264" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_select_option.xml" value="0.22615219721329047" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_select_smart_contract.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/activity_smart_contract_transactions.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/row.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/layout/row2.xml" value="0.25" />
+        <entry key="..\:/Users/adria/Desktop/TGFAPP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
